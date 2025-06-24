@@ -1,0 +1,50 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 2989,
+    "errorCount" : 6,
+    "errorPct" : 0.20073603,
+    "meanResTime" : 335.4546671127452,
+    "medianResTime" : 331.0,
+    "minResTime" : 280.0,
+    "maxResTime" : 1527.0,
+    "pct1ResTime" : 361.0,
+    "pct2ResTime" : 374.0,
+    "pct3ResTime" : 408.0999999999999,
+    "throughput" : 9.984133611691023,
+    "receivedKBytesPerSec" : 12.200026096033403,
+    "sentKBytesPerSec" : 3.177671581419624
+  },
+  "ObtenerArtista" : {
+    "transaction" : "ObtenerArtista",
+    "sampleCount" : 1490,
+    "errorCount" : 3,
+    "errorPct" : 0.20134228,
+    "meanResTime" : 349.37919463087246,
+    "medianResTime" : 344.0,
+    "minResTime" : 295.0,
+    "maxResTime" : 1527.0,
+    "pct1ResTime" : 374.0,
+    "pct2ResTime" : 388.0,
+    "pct3ResTime" : 419.0899999999999,
+    "throughput" : 4.999328949134344,
+    "receivedKBytesPerSec" : 7.483285328731042,
+    "sentKBytesPerSec" : 1.5219453292762715
+  },
+  "TokenSpotify" : {
+    "transaction" : "TokenSpotify",
+    "sampleCount" : 1499,
+    "errorCount" : 3,
+    "errorPct" : 0.20013343,
+    "meanResTime" : 321.61374249499664,
+    "medianResTime" : 321.0,
+    "minResTime" : 280.0,
+    "maxResTime" : 448.0,
+    "pct1ResTime" : 332.0,
+    "pct2ResTime" : 337.0,
+    "pct3ResTime" : 348.0,
+    "throughput" : 5.00780067683817,
+    "receivedKBytesPerSec" : 4.750777405514928,
+    "sentKBytesPerSec" : 1.6627463184814235
+  }
+}
